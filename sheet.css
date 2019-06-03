@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 
@@ -50,4 +50,18 @@ header.startup h1 {
   border-color: #ee4b08;
   border-width: 5px;
   cursor: pointer;
+}
+img{
+  width: 100px;
+}
+
+#img{
+  display: grid inline;
+  grid-gap: 20px;
+  grid-template-columns: 15px;;
+  word-spacing: 50px;
+  
+}
+strong{
+  font-size: 40px;
 }
