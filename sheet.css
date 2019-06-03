@@ -65,3 +65,7 @@ img{
 strong{
   font-size: 40px;
 }
+
+img:hover{
+  width: 120px;
+}
