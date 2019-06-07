@@ -16,7 +16,7 @@ body {
 
 header.startup {
   background-position: center;
-  background-image: url("back.jpg");
+  background-image: url("back.png");
   background-size: cover;
   height: 100%;
 }
@@ -63,7 +63,7 @@ img{
   
 }
 strong{
-  font-size: 40px;
+  font-size: 55px;
 }
 
 img:hover{
