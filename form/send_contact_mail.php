@@ -12,5 +12,5 @@ if(!empty($_POST["send"])) {
 	    $type = "success";
 	}
 }
-require_once "contact-view.html";
+require_once "index.html";
 ?>
